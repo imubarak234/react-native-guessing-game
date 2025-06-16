@@ -6,6 +6,7 @@ import GameScreen from './screens/GameScreen';
 import Colors from './constants/Color';
 import GameOverScreen from './screens/GameOverScreen';
 import { useFonts } from 'expo-font';
+import AppLoading from 'expo-app-loading';
 
 export default function App() {
 
